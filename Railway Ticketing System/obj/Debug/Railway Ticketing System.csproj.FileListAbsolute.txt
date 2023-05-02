@@ -1,0 +1,31 @@
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.exe.config
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.exe
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.pdb
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MaterialSkin.dll
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MetroFramework.dll
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csprojResolveAssemblyReference.cache
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway_Ticketing_System.Form1.resources
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway_Ticketing_System.Properties.Resources.resources
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.GenerateResource.Cache
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.CoreCompileInputs.cache
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.exe
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.pdb
+c:\users\ali khan\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\misProj.mdb
+C:\Users\Ali Khan\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csprojAssemblyReference.cache
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.AssemblyReference.cache
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway_Ticketing_System.Form1.resources
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway_Ticketing_System.Properties.Resources.resources
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.GenerateResource.cache
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.CoreCompileInputs.cache
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.exe
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.pdb
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\misProj.mdb
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.exe.config
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.exe
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\Railway Ticketing System.pdb
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MaterialSkin.dll
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MetroFramework.dll
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\bin\Debug\MetroFramework.Fonts.dll
+D:\oldWindow's data\source\repos\Railway Ticketing System\Railway Ticketing System\obj\Debug\Railway Ticketing System.csproj.CopyComplete
